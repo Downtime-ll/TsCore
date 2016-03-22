@@ -1,0 +1,2 @@
+# TsCore
+Typescript Core Lib
